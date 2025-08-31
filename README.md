@@ -1,8 +1,8 @@
 # ByHuman: Verifying Human Creativity in a Decentralized World
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)  
-[![GitHub stars](https://img.shields.io/github/stars/YOURUSERNAME/ByHuman?style=social)](https://github.com/YOURUSERNAME/ByHuman/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/YOURUSERNAME/ByHuman?style=social)](https://github.com/YOURUSERNAME/ByHuman/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Byhuman01/ByHuman?style=social)](https://github.com/byhuman01/ByHuman/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/byhuman01/ByHuman?style=social)](https://github.com/byhuman01/ByHuman/network/members)
 
 ## Abstract
 In an AI-dominated world, distinguishing human-created content from machine-generated is crucial. ByHuman leverages Ethereum and ENS for privacy-friendly, decentralized proof-of-human authorship. Creators use self-sovereign ENS domains to sign and verify works cryptographically, resisting Sybil attacks via community vouching and economic incentives. This promotes transparency, user control, and the value of human creativity.
