@@ -21,7 +21,7 @@ AI generates realistic text, images, music, and code, flooding markets and erodi
 For technical details, see the whitepaper sections on architecture, registration, and proof mechanisms.
 
 ## Owned ENS Domains for Sale/Partnership
-I own these premium ENS domains, ideal for building ByHuman. Open to selling or partnering with investors/developers to develop the protocol and launch. Contact me via GitHub Issues or [hello@byhuman.info] (replace with your email).
+I own these premium ENS domains, ideal for building ByHuman. Open to selling or partnering with investors/developers to develop the protocol and launch. Contact me via GitHub Issues or [byhuman@proton.me].
 
 | Domain          | Potential Use                  |
 |-----------------|--------------------------------|
@@ -78,7 +78,7 @@ This project is released under [CC0 1.0 Universal](LICENSE) – public domain. B
 
 ## Contact & Community
 - **Issues:** Report bugs or discuss ideas here.
-- **Email:** [hello@byhuman.info] (replace with yours).
+- **Email:** [byhuman@proton.me].
 - Join the discussion on X/Twitter: Search #ByHuman or tag @CipherHuman01.
 
 Star this repo if you're interested – let's verify human creativity!
