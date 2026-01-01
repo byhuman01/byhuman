@@ -79,6 +79,6 @@ This project is released under [CC0 1.0 Universal](LICENSE) – public domain. B
 ## Contact & Community
 - **Issues:** Report bugs or discuss ideas here.
 - **Email:** [byhuman@proton.me].
-- Join the discussion on X/Twitter: Search #ByHuman or tag @CipherHuman01.
+- Join the discussion on X/Twitter: Search #ByHuman or tag @byhuman42.
 
 Star this repo if you're interested – let's verify human creativity!
